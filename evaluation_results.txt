@@ -1,0 +1,172 @@
+
+======================================================================
+CS 734 P@10 Evaluation  |  2026-03-30 20:03:52
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+Query  : what are endotoxins?
+Source : MS MARCO  |  QID: 558263
+P@10   : 0.0000
+Top 10 Passages:
+  [ 1] doc_id=7890876  "endotoxin. a heat-stable toxin associated with the outer membranes of certain gram-negative bacteria, including Brucella, Neisseria, and Vibrio species. Endotoxins are not secreted but are released on..."
+  [ 2] doc_id=519921  "Endotoxin is a complex lipopolysaccharide (LPS) found in the outer cell membrane of gram-negative bacteria. Endotoxins consist of a core polysaccharide chain, O-specific polysaccharide side chains (O-..."
+  [ 3] doc_id=7422739  "About Endotoxins. Endotoxins, which occur in the outer membrane of certain gram-negative bacteria, are not secreted but are released only when the cells are disrupted or destroyed. Endotoxins are comp..."
+  [ 4] doc_id=953826  "Endotoxins, also known as lipopolysaccharides or LPS, are cell membrane components of Gram-negative bacteria (e.g., E. coli).The lipid portion of the outer layer of the outer membrane is completely co..."
+  [ 5] doc_id=4683692  "endotoxin. a heat-stable toxin associated with the outer membranes of certain gram-negative bacteria, including Brucella, Neisseria, and Vibrio species. Endotoxins are not secreted but are released on..."
+  [ 6] doc_id=4683689  "endotoxin. a heat-stable toxin associated with the outer membranes of certain gram-negative bacteria, including Brucella, Neisseria, and Vibrio species. Endotoxins are not secreted but are released on..."
+  [ 7] doc_id=7422736  "Endotoxin, toxic substance bound to the bacterial cell wall and released when the bacterium ruptures or disintegrates. Endotoxins consist of lipopolysaccharide and lipoprotein complexes. The protein c..."
+  [ 8] doc_id=7422742  "Definition of Endotoxin. Endotoxin is a form of sugar. It is a structure composed of lipids and sugar complexes. This structure is called a lipopolysaccharide or LPS. This structure is a necessary com..."
+  [ 9] doc_id=6246537  "Endotoxins: Definition: Endotoxins are lipopolysaccharides toxin produced by Gram Negative bacteria. The name endotoxin is derived from the fact that these toxins are generally cell bound and released..."
+  [10] doc_id=467617  "endotoxin (enÂ´dÅtokÂ´sin), n a nondiffusible lipid polysaccharide-polypeptide complex formed within bacteria (some gram-negative bacilli and others); when released from the destroyed bacterial cells..."
+
+──────────────────────────────────────────────────────────────────────
+Query  : when the irs accepts your return
+Source : MS MARCO  |  QID: 955093
+P@10   : 0.0000
+Top 10 Passages:
+  [ 1] doc_id=3851976  "IRS Acceptance. Your tax return should be accepted by the IRS soon after you submit it. Initially, you will receive notification that your return has been received. You then receive notification that..."
+  [ 2] doc_id=3339361  "Generally tax returns are accepted by the IRS within a day or two of the return having been electronically filed with the IRS. In most cases, the IRS DRT is available within 2-3 weeks after the return..."
+  [ 3] doc_id=8259484  "Generally tax returns are accepted by the IRS when the tax return is received by the IRS. In most cases, the IRS DRT is available within 8-11 weeks after the tax return has been accepted by the IRS. A..."
+  [ 4] doc_id=1933117  "1 Generally tax returns are accepted by the IRS when the tax return is received by the IRS. 2  In most cases, the IRS DRT is available within 8-11 weeks after the tax return has been accepted by the I..."
+  [ 5] doc_id=8259485  "Generally tax returns are accepted by the IRS within a day or two of the return having been electronically filed with the IRS. In most cases, the IRS DRT is available within 2-3 weeks after the return..."
+  [ 6] doc_id=1933118  "Generally tax returns are accepted by the IRS within a day or two of the return having been electronically filed with the IRS. In most cases, the IRS DRT is available within 2-3 weeks after the return..."
+  [ 7] doc_id=5513878  "1 Generally tax returns are accepted by the IRS within a day or two of the return having been electronically filed with the IRS. 2  In most cases, the IRS DRT is available within 2-3 weeks after the r..."
+  [ 8] doc_id=5501  "You might learn that the IRS has accepted your income tax return within days of filing or after a few weeks, depending on how you file. The Internal Revenue Service can accept your tax return within 7..."
+  [ 9] doc_id=3854772  "1 Generally tax returns are accepted by the IRS within a day or two of the return having been electronically filed with the IRS. 2  In most cases, the IRS DRT is available within 2-3 weeks after the r..."
+  [10] doc_id=8195552  "When will the IRS start accepting e-filed returns? The IRS will begin accepting e-file returns on January 29, 2018. (A few returns will be processed up to a week before this date for testing purposes...."
+
+──────────────────────────────────────────────────────────────────────
+Query  : thailand weather in dec
+Source : MS MARCO  |  QID: 513779
+P@10   : 0.0000
+Top 10 Passages:
+  [ 1] doc_id=4644717  "Guide to Thailand weather in December The average maximum daytime temperature in Thailand in December is a hot 31Â°C (88Â°F) with high heat & humidity. The average night-time temperature is usually a..."
+  [ 2] doc_id=4644719  "Weather in Thailand in December 2017. Expect 31Â°C daytime maximum temperatures in the shade with on average 8 hours of sunshine per day in Thailand in December. Check more long-term weather averages..."
+  [ 3] doc_id=7429889  "Thailand Weather in December. With Thailand in the cool season, humidity levels in December tend to be lower which makes sight-seeing and exploring a more comfortable experience. Evening temperatures..."
+  [ 4] doc_id=2219121  "Thailand weather map. December is high to peak season in Thailand and one of the reasons that is the case is because the weather is brilliant. Lots of sunshine down south, little rain and the temperat..."
+  [ 5] doc_id=6736868  "Thailand weather map. Introduction. December is high to peak season in Thailand and one of the reasons that is the case is because the weather is brilliant. Lots of sunshine down south, little rain an..."
+  [ 6] doc_id=7257181  "Thailand weather map. Introduction. December is high to peak season in Thailand and one of the reasons that is the case is because the weather is brilliant. Lots of sunshine down south, little rain an..."
+  [ 7] doc_id=4644722  "Despite the rain, December can be very busy, especially on Ko Tao and Ko Pha Ngan. Southwest Thailand. More glorious weather â and the crowds flock to it. In December on Thailand's west coast you ca..."
+  [ 8] doc_id=4644720  "The December weather averages shown below are for Bangkok. 1  Thailand weather overview. 2  Thailand monthly weather. 3  Thailand 5-day forecast. 4  Thailand holidays. 5  Thailand destinations. 6  Tha..."
+  [ 9] doc_id=4644716  "Where is the best place to visit Thailand in December? An overview of the weather for Thailand in December, including a map showing where the best weather is and when. Where is the best place to visit..."
+  [10] doc_id=2219120  "Weather in Thailand in January. January is one of the best months of the year to visit Thailand. The weather is hot, sunny and dry in most parts â the rain infrequent in the wetter areas. The heat a..."
+
+──────────────────────────────────────────────────────────────────────
+Query  : what county is beloit, wi in
+Source : MS MARCO  |  QID: 1085674
+P@10   : 0.0000
+Top 10 Passages:
+  [ 1] doc_id=1714122  "Town Of Beloit, WI. The Town Of Beloit is a County Subdivision of Rock County. The subdivision has a T1 Census Class Code which indicates that the Town Of Beloit is an active county subdivision that i..."
+  [ 2] doc_id=851356  "Sponsored Topics. Beloit is a city in Rock County, Wisconsin, United States. As of the 2010 census, Beloit had a population of 36,966. The greater Beloit area is home to more than 91,000 residents. Be..."
+  [ 3] doc_id=851353  "This article is about the city. For the adjacent town, see Beloit (town), Wisconsin. Beloit is a city in Rock County, Wisconsin, United States. As of the 2010 census, the city had a population of 36,9..."
+  [ 4] doc_id=1714124  "Beloit, Wisconsin. This article is about the city. For the adjacent town, see Beloit (town), Wisconsin. Beloit is a city in Rock County, Wisconsin, United States. As of the 2010 census, the city had a..."
+  [ 5] doc_id=7117069  "Beloit Genealogy (in Rock County, WI) USA (603,054) > Wisconsin (12,595) > Rock County (399) > Beloit (68) Note: This page primarily lists records kept at the city level. Additional records are listed..."
+  [ 6] doc_id=1714119  "Town of Beloit Municipal Court. Town of Beloit Municipal Court is located in Rock county in Wisconsin. The court address is 2871 South Afton Road, Beloit, WI 53511. The phone number for Town of Beloit..."
+  [ 7] doc_id=7071142  "Beloit, WI City Data Beloit, WI is a city with great restaurants, attractions, history and people. There are around 35,775 people who live in Beloit and approximately 152,307 who live in Rock County...."
+  [ 8] doc_id=851358  "For Sale | Get Prequalified Today 4300 E County Road S, Beloit, WI, 53511...."
+  [ 9] doc_id=851362  "2011 Report Series. The Status of Women in Wisconsin Counties. Beloit & Rock County, WI. Highlights. ï·ï  The City of Beloit is home to more than 19,400 women and girls, accounting for 53% of the po..."
+  [10] doc_id=7117070  "Green County Circuit Court 1016 16th Avenue Monroe WI 53566 32.1 miles from Beloit 608-328-9433. Stephenson County Court 15 North Galena Avenue Freeport IL 61032 34.5 miles from Beloit 815-235-8289. J..."
+
+──────────────────────────────────────────────────────────────────────
+Query  : age discrimination in the workplace cases
+Source : MS MARCO  |  QID: 12903
+P@10   : 0.0000
+Top 10 Passages:
+  [ 1] doc_id=5616084  "An employee must be at least 40 years of age under federal and Pennsylvania law to be protected. A typical age discrimination case may involve an employee who is over 40 years of age who was treated d..."
+  [ 2] doc_id=7538286  "- Definition, Cases & Examples. Age discrimination in the workplace happens when a person's age is unfairly used as a factor in his or her employment. The Age Discrimination in Employment Act of 1967..."
+  [ 3] doc_id=937044  "Age Discrimination Basics. The Age Discrimination in Employment Act (ADEA) prohibits workplace discrimination based on age against those who are at least 40 years old. The federal Age Discrimination i..."
+  [ 4] doc_id=195107  "A. The Age Discrimination in Employment Act of 1967 (ADEA) offers protection to employees and applicant who are 40 years of age or older from the improper use of age when workplace decisions are being..."
+  [ 5] doc_id=2888222  "The Age Discrimination in Employment Act (ADEA) prohibits discriminating against workers 40 years old and older because of their age. Many states also have laws prohibiting age discrimination in the w..."
+  [ 6] doc_id=5642761  "Age Discrimination. Generally, discriminating on the basis of age in the workplace is illegal under both the Federal Age Discrimination in Employment Act (ADEA), and the California Fair Employment and..."
+  [ 7] doc_id=6381284  "Age discrimination in the workplace happens when a person's age is unfairly used as a factor in his or her employment. The Age Discrimination in Employment Act of 1967 was enacted to protect workers f..."
+  [ 8] doc_id=6303946  "Age discrimination in the workplace is the practice of letting a person's age unfairly become a factor when deciding who receives a new job, a promotion, or other job benefits. Decisions about termina..."
+  [ 9] doc_id=4513265  "Age Discrimination in Employment. Workplace discrimination is the most common type of age discrimination. Many older workers suffer an age discrimination layoff, or a layoff based on age and not the p..."
+  [10] doc_id=195106  "Identifying Age Discrimination in the Workplace. It can be difficult to determine whether youâve been the victim of age discrimination in the workplace. There are subtle signs of age discrimination..."
+
+──────────────────────────────────────────────────────────────────────
+Query  : What causes inflation in an economy?
+Source : Student  |  QID: student_1
+P@10   : N/A (no qrels)
+Top 10 Passages:
+  [ 1] doc_id=7672325  "So what exactly causes inflation in an economy? There is not a single, agreed-upon answer, but there are a variety of theories, all of which play some role in inflation: 1. The Money Supply. Inflation..."
+  [ 2] doc_id=870327  "Generally, inflation takes place in an economy when demand for goods and services exceeds the supply of output. Therefore, causes of inflation have two sides, the demand side and supply side. The vari..."
+  [ 3] doc_id=6651222  "Inflation means there is a sustained increase in the price level. The main causes of inflation are either excess aggregate demand (economic growth too fast) or cost push factors (supply-side factors)...."
+  [ 4] doc_id=639602  "Inflation, by definition, is an increase in the price of goods and services within an economy. Itâs caused due to an imbalance in the goods and buyer ratio â when the demand of goods or services i..."
+  [ 5] doc_id=8633704  "Inflation, caused by supply and demand, is an increase in the price of a basket of goods and services that is representative of the economy as a whole. Inflation, caused by supply and demand, is an in..."
+  [ 6] doc_id=4703819  "The Two Primary Causes of a High Inflation Rate. In most cases, and in most countries at most times, there are two primary drivers of a high rate of inflation in a nation's economy. First, high inflat..."
+  [ 7] doc_id=6555171  "A sustained rise in prices is known as inflation. A large rise in prices / higher inflation rate is often caused by economic growth. However, there are also occasions, when we can get inflation despit..."
+  [ 8] doc_id=870331  "What causes inflation is also a key argument in economic theory. Some economists believe that there are different types of inflation â cost-push and demand-pull inflation. Cost-push inflation is sup..."
+  [ 9] doc_id=8027604  "Economists distinguish between two types of inflation: Demand-Pull Inflation and Cost-Push Inflation. Both types of inflation cause an increase in the overall price level within an economy. Demand-pul..."
+  [10] doc_id=639605  "Inflation is often defined as a sustained increase in prices for a broad range of goods. Economists explain that rising prices are the symptom, however, and not the cause. The cause of inflation is th..."
+
+──────────────────────────────────────────────────────────────────────
+Query  : How does the immune system fight viruses?
+Source : Student  |  QID: student_2
+P@10   : N/A (no qrels)
+Top 10 Passages:
+  [ 1] doc_id=4744876  "how does the immune system fight an invasion. First, a macrophage determines that these viruses are the enemy and moves in toward one of the invaders. The macrophage devours the virus and rips the vir..."
+  [ 2] doc_id=2468893  "The immune system normally protects the body from viruses and bacteria by producing antibodies to fight them. In an allergic reaction, the immune system starts fighting substances that are usually har..."
+  [ 3] doc_id=8174414  "Immune System. The immune system fights infection caused by the flu and other viruses, bacteria, fungi and parasites. According to Harrisonâs Principles of Internal Medicine, cytokines are a kind of..."
+  [ 4] doc_id=4162911  "A , Neurology, answered. The immune system is the body's protection against invasion of antigens such as bacteria, viruses, pollen, additives, certain foods, and others. When a person is first introdu..."
+  [ 5] doc_id=6136247  "A Dr. Louis Rosner , Neurology, answered. The immune system is the body's protection against invasion of antigens such as bacteria, viruses, pollen, additives, certain foods, and others. When a person..."
+  [ 6] doc_id=5369086  "Insomnia, Stress and Immune System Save this for later. by Sandra Reichstetter Ph.D. The immune system is the bodyâs defense system that fights off foreign intruders like bacteria, viruses and paras..."
+  [ 7] doc_id=1122819  "The body relies on its immune system to fight invaders called antigens, which include bacteria, viruses and allergens. White blood cells attack these harmful organisms, allowing the body to maintain i..."
+  [ 8] doc_id=7069079  "Fortunately our immune systems can fight off many viruses, but some, like Ebola or even influenza, can be deadly. It may then surprise you to learn that something viruses are exposed to all the time -..."
+  [ 9] doc_id=2174710  "Normally, the immune system (the body's defence against invaders) protects the body from infection and foreign substances such as bacteria and viruses. In autoimmune diseases, such as SjÃ¶gren's syndr..."
+  [10] doc_id=8084667  "Your immune system protects you from the disease by fighting off the invading germs. How does the immune system work? Your immune system is always on patrol in your body. When it comes across an invad..."
+
+──────────────────────────────────────────────────────────────────────
+Query  : What are the main causes of the American Civil War?
+Source : Student  |  QID: student_3
+P@10   : N/A (no qrels)
+Top 10 Passages:
+  [ 1] doc_id=8185445  "The origins of the Civil War actually do surprise many when they get to read and understand what actually caused Americans to fight one another so long after gaining their own independence from the Br..."
+  [ 2] doc_id=8360133  "This paper studies the causes of the American Civil War. There were many other factors that played an important role in the Civil War but most historians still feel that slavery was the main cause of..."
+  [ 3] doc_id=4701347  "What the real reason behind the American Civil War? People say that the main cause is slavery, but that doesn't make sense why would the north sacrifice there resources and man power to fight slavery...."
+  [ 4] doc_id=8185448  "What were the key causes of the American Civil War? Uncle Tom's Cabin By Harriet Beecher Stowe was definatley a cause of the Civil War. It stirred up some people and told the truth behind slavery...."
+  [ 5] doc_id=280278  "What was the main cause of death in the Civil War? The main cause of death in the Civil War was disease because of the unsanitary conditions in hospitals used to care for wounded soldiers. One of the..."
+  [ 6] doc_id=4015906  "Causes of the American Civil War Essay - Causes of the American Civil War The American Civil War was a military conflict between the United States of America (the Union), and 11 secessionist Southern..."
+  [ 7] doc_id=6833055  "The question, âWhat caused the U.S. Civil War?â has been debated since the horrific conflict ended in 1865. As with most wars, however, there was no single cause. Instead, the Civil War erupted fr..."
+  [ 8] doc_id=6429134  "The period between 1861 and 1865 is referred to as the Civil War in the American history. It was fought between the Southern states--the Confederation--and the Union of the Northern states. The main c..."
+  [ 9] doc_id=439938  "What event marked the beginning of the US Civil War? The main cause of the Civil War has been debated for years. The first military action was Confederate forces attacking Union Fort Sumter...."
+  [10] doc_id=8360131  "Slavery and the Causes of the American Civil War. The Sesquicentennial offers a chance to open a dialogue about one of the most divisive issues in Americansâ understanding of their countryâs histo..."
+
+──────────────────────────────────────────────────────────────────────
+Query  : How do black holes form?
+Source : Student  |  QID: student_4
+P@10   : N/A (no qrels)
+Top 10 Passages:
+  [ 1] doc_id=4849390  "Instead, a black hole uses the power of gravity to pull things towards it. How do black holes form? When a large star runs out of fuel it can no longer support its heavy weight. The pressure from the..."
+  [ 2] doc_id=1429974  "Black holes can form in many ways though, and large black holes can have tens to millions of times the mass of our sun trapped in a point smaller than the tip of a pin! Some black holes trap more and..."
+  [ 3] doc_id=1882908  "A black hole generally forms after a star dies in a titanic explosion known as a supernova, which crushes the remaining core into dense lumps. A maddening enigma called a singularity -- a region of in..."
+  [ 4] doc_id=2724637  "Another contender for the title of smallest thing in the universe is the singularity at the center of a black hole. Black holes are formed when matter is condensed in a small enough space that gravity..."
+  [ 5] doc_id=1508264  "Note that as the energy (mass) increases here, the temperature goes down. For a black hole to form from the collapse of a star, the star must have mass at least about 3 times that of the sun. The mass..."
+  [ 6] doc_id=89737  "10 mind-blowing facts about black holes. Black holes are the only objects in the universe that can trap light by sheer gravitational force. Scientists believe they are formed when the corpse of a mass..."
+  [ 7] doc_id=4535990  "How is a black hole created? A common type of black hole is produced by certain dying stars. A star with a mass greater than about 20 times the mass of our Sun may produce a black hole at the end of i..."
+  [ 8] doc_id=1508260  "A black hole can be formed in many ways (throw in books, computers, etc.). After it settles down, spacetime outside is described by only M, J. The radiation it emits is essentially thermal. It canât..."
+  [ 9] doc_id=1689250  "A black hole is a region of spacetime exhibiting such strong gravitational effects that nothingâincluding particles and electromagnetic radiation such as lightâcan escape from inside it. The theor..."
+  [10] doc_id=1152644  "The massive stars forms a neutron star when they collapse but stars having more than 9-10 solar masses produces a black hole when they die . Black holes are formed when a mass â¦ ive star have very l..."
+
+──────────────────────────────────────────────────────────────────────
+Query  : What is the difference between machine learning and deep learning?
+Source : Student  |  QID: student_5
+P@10   : N/A (no qrels)
+Top 10 Passages:
+  [ 1] doc_id=7182927  "What Is The Difference Between Deep Learning, Machine Learning and AI? Over the past few years, the term âdeep learningâ has firmly worked its way into business language when the conversation is a..."
+  [ 2] doc_id=7173630  "What is Deep Learning and how is it different than traditional machine learning? Deep Neural Networks, a.k.a. Deep Learning is a method of machine learning that has been very successful in figuring ou..."
+  [ 3] doc_id=774529  "Deep Learning is the sub-field of Machine Learning which is the sub-field of Artificial Intelligence. Deep Learning is a set of algorithms that attempt to model high-level abstractions in data. Let us..."
+  [ 4] doc_id=182547  "Learn what machine learning and deep learning are, compare machine learning and deep learning, and learn about the future of machine learning and deep learning. Learn what machine learning and deep le..."
+  [ 5] doc_id=7173628  "Deep learning. Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as oppose..."
+  [ 6] doc_id=774531  "Deep learning refers to both deep neural networks and other branches of machine learning like deep reinforcement learning. In the press, it usually means deep neural nets. Neural networks are a set of..."
+  [ 7] doc_id=8114721  "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks. If you are just starting out in the fie..."
+  [ 8] doc_id=7173632  "Deep learning is part of a broader family of machine learning methods based on learning representations of data. An observation (e.g., an image) can be represented in many ways such as a vector of int..."
+  [ 9] doc_id=7173631  "Deep learning is a collection of algorithms used in machine learning, used to model high-level abstractions in data through the use of model architectures, which are composed of multiple nonlinear tra..."
+  [10] doc_id=7173627  "Deep learning (also known as deep structured learning or hierarchical learning) is part of a broader family of machine learning methods based on learning data representations, as opposed to task-speci..."
+
+======================================================================
+SUMMARY
+  Queries evaluated : 10
+  MS MARCO queries  : 5  (with qrel judgments)
+  Student queries   : 5  (no qrels — passages shown for manual review)
+  Mean P@10 (MS MARCO queries): 0.0000
+======================================================================
